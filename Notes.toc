@@ -1,69 +1,70 @@
-\contentsline {section}{\numberline {1}Christimas in Paris, ca. 1280}{3}{section.1}% 
-\contentsline {subsection}{\numberline {1.1}Church Music}{3}{subsection.1.1}% 
-\contentsline {subsection}{\numberline {1.2}Puer natus est nobis (\IeC {\textquotedblleft }A child is born to us\IeC {\textquotedblright })}{3}{subsection.1.2}% 
-\contentsline {subsection}{\numberline {1.3}Viderunt omnes (\IeC {\textquotedblleft }All the ends of the earth have seen the salvation of our God\IeC {\textquotedblright })}{4}{subsection.1.3}% 
-\contentsline {subsection}{\numberline {1.4}Types of Church Music}{4}{subsection.1.4}% 
-\contentsline {subsubsection}{\numberline {1.4.1}Chants}{4}{subsubsection.1.4.1}% 
-\contentsline {subsubsection}{\numberline {1.4.2}Organum}{4}{subsubsection.1.4.2}% 
-\contentsline {subsection}{\numberline {1.5}Leonin's and Perotin's setting of Viderunt omnes}{5}{subsection.1.5}% 
-\contentsline {subsubsection}{\numberline {1.5.1}Leonin's Viderun omnes}{5}{subsubsection.1.5.1}% 
-\contentsline {subsubsection}{\numberline {1.5.2}Perotin's Viderun omnes}{5}{subsubsection.1.5.2}% 
-\contentsline {subsection}{\numberline {1.6}Secular Music and Types of Secular Music}{5}{subsection.1.6}% 
-\contentsline {subsubsection}{\numberline {1.6.1}Estampie}{6}{subsubsection.1.6.1}% 
-\contentsline {subsubsection}{\numberline {1.6.2}Trouv\IeC {\`e}re song}{6}{subsubsection.1.6.2}% 
-\contentsline {subsubsection}{\numberline {1.6.3}Motet}{6}{subsubsection.1.6.3}% 
-\contentsline {subsection}{\numberline {1.7}Jeu de Robin et Marion (\IeC {\textquotedblleft }play with songs\IeC {\textquotedblright })}{6}{subsection.1.7}% 
-\contentsline {subsection}{\numberline {1.8}De ma dame vient/Dieus, comment porroie/Omnes}{7}{subsection.1.8}% 
-\contentsline {subsection}{\numberline {1.9}Emergence of Polyphony}{7}{subsection.1.9}% 
-\contentsline {section}{\numberline {2}At the Court of Philip the Good of Burgundy, ca. 1450}{7}{section.2}% 
-\contentsline {subsection}{\numberline {2.1}The Duchy of Burgundy}{7}{subsection.2.1}% 
-\contentsline {subsection}{\numberline {2.2}Rose liz printemps verdure}{8}{subsection.2.2}% 
-\contentsline {subsection}{\numberline {2.3}Gilles Binchois (Gilles de Bins)}{8}{subsection.2.3}% 
-\contentsline {subsubsection}{\numberline {2.3.1}Deuil angoisseux (ceremonial ballade (aa'bC))}{9}{subsubsection.2.3.1}% 
-\contentsline {subsection}{\numberline {2.4}The English Guise}{9}{subsection.2.4}% 
-\contentsline {subsubsection}{\numberline {2.4.1}John Dunstable}{9}{subsubsection.2.4.1}% 
-\contentsline {subsubsection}{\numberline {2.4.2}Quam pulchra es}{9}{subsubsection.2.4.2}% 
-\contentsline {subsubsection}{\numberline {2.4.3}Johannes Tinctoris}{9}{subsubsection.2.4.3}% 
-\contentsline {subsubsection}{\numberline {2.4.4}Martin le Franc}{9}{subsubsection.2.4.4}% 
-\contentsline {subsubsection}{\numberline {2.4.5}Guillaume Du Fay}{10}{subsubsection.2.4.5}% 
-\contentsline {subsubsection}{\numberline {2.4.6}Nuper rosarum flores}{10}{subsubsection.2.4.6}% 
-\contentsline {subsubsection}{\numberline {2.4.7}Missa L'homme arme}{10}{subsubsection.2.4.7}% 
-\contentsline {subsection}{\numberline {2.5}Messe de Nostre-Dame}{11}{subsection.2.5}% 
-\contentsline {section}{\numberline {3}In the Printshops of Ottaviano Petrucci and Pierre Attaingnant ca. 1500-1550}{11}{section.3}% 
-\contentsline {subsection}{\numberline {3.1}Ottaviano Petrucci}{11}{subsection.3.1}% 
-\contentsline {subsection}{\numberline {3.2}Josquin des Prez (ca. 1450-1521)}{12}{subsection.3.2}% 
-\contentsline {subsubsection}{\numberline {3.2.1}Missa L'homme arme super voces musicales}{12}{subsubsection.3.2.1}% 
-\contentsline {subsubsection}{\numberline {3.2.2}Missa Pange Lingua}{12}{subsubsection.3.2.2}% 
-\contentsline {subsubsection}{\numberline {3.2.3}Ave Maria... virgo serena}{12}{subsubsection.3.2.3}% 
-\contentsline {subsection}{\numberline {3.3}Rise of Native Italian Music}{13}{subsection.3.3}% 
-\contentsline {subsubsection}{\numberline {3.3.1}lo non compro piu speranza}{13}{subsubsection.3.3.1}% 
-\contentsline {subsection}{\numberline {3.4}Pierre Attaingnant (1494-1552)}{13}{subsection.3.4}% 
-\contentsline {subsubsection}{\numberline {3.4.1}Tant que vivray}{14}{subsubsection.3.4.1}% 
-\contentsline {section}{\numberline {4}The Year 1600: Medici's Florence and Elizabeth's London}{14}{section.4}% 
-\contentsline {subsection}{\numberline {4.1}Polyphonic Madrigal}{14}{subsection.4.1}% 
-\contentsline {subsection}{\numberline {4.2}Luca Marenzlo}{14}{subsection.4.2}% 
-\contentsline {subsubsection}{\numberline {4.2.1}Solo e pensoso}{15}{subsubsection.4.2.1}% 
-\contentsline {subsubsection}{\numberline {4.2.2}Concerti delle donne}{15}{subsubsection.4.2.2}% 
-\contentsline {subsection}{\numberline {4.3}Monody}{15}{subsection.4.3}% 
-\contentsline {subsubsection}{\numberline {4.3.1}The Floretine Camerata}{15}{subsubsection.4.3.1}% 
-\contentsline {subsection}{\numberline {4.4}Giulio Caccini}{15}{subsection.4.4}% 
-\contentsline {subsubsection}{\numberline {4.4.1}Le Nuove Muisiche}{15}{subsubsection.4.4.1}% 
-\contentsline {subsection}{\numberline {4.5}Staged Music in Medici Florence}{16}{subsection.4.5}% 
-\contentsline {subsubsection}{\numberline {4.5.1}Peri, Euridice (1600)}{16}{subsubsection.4.5.1}% 
-\contentsline {subsection}{\numberline {4.6}Elizabethan England}{16}{subsection.4.6}% 
-\contentsline {subsubsection}{\numberline {4.6.1}John Dowland (1562-1626)}{16}{subsubsection.4.6.1}% 
-\contentsline {subsubsection}{\numberline {4.6.2}Flow my tears}{16}{subsubsection.4.6.2}% 
-\contentsline {subsubsection}{\numberline {4.6.3}The virginal}{17}{subsubsection.4.6.3}% 
-\contentsline {subsubsection}{\numberline {4.6.4}Pavana Lacrimae}{17}{subsubsection.4.6.4}% 
-\contentsline {subsubsection}{\numberline {4.6.5}Consort music}{17}{subsubsection.4.6.5}% 
-\contentsline {subsection}{\numberline {4.7}Elizabethan Theater Music}{17}{subsection.4.7}% 
-\contentsline {section}{\numberline {5}Carnival and Lent in Venice, ca. 1650}{17}{section.5}% 
-\contentsline {subsection}{\numberline {5.1}Claudio Monteverdi (1567-1643)}{17}{subsection.5.1}% 
-\contentsline {subsubsection}{\numberline {5.1.1}L'incoronatione di Poppea (1642)}{17}{subsubsection.5.1.1}% 
-\contentsline {subsection}{\numberline {5.2}Francesco Cavalli}{18}{subsection.5.2}% 
-\contentsline {subsection}{\numberline {5.3}Chamber music in Venice ca 1650}{18}{subsection.5.3}% 
-\contentsline {subsection}{\numberline {5.4}Barbara Strozzi (1619-1677)}{18}{subsection.5.4}% 
-\contentsline {subsubsection}{\numberline {5.4.1}Lagrime mie (1659)}{19}{subsubsection.5.4.1}% 
-\contentsline {subsection}{\numberline {5.5}Public Music/Life}{19}{subsection.5.5}% 
-\contentsline {subsection}{\numberline {5.6}Giovanni Gabrieli (1553-1612)}{19}{subsection.5.6}% 
-\contentsline {subsubsection}{\numberline {5.6.1}Canzon septimi toni a 8 no. 2 (1597)}{19}{subsubsection.5.6.1}% 
+\contentsline {section}{\numberline {1}Christimas in Paris, ca. 1280}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Church Music}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Puer natus est nobis (“A child is born to us”)}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Viderunt omnes (“All the ends of the earth have seen the salvation of our God”)}{4}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Types of Church Music}{4}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Chants}{4}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Organum}{4}{subsubsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.5}Leonin's and Perotin's setting of Viderunt omnes}{5}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}Leonin's Viderun omnes}{5}{subsubsection.1.5.1}%
+\contentsline {subsubsection}{\numberline {1.5.2}Perotin's Viderun omnes}{5}{subsubsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.6}Secular Music and Types of Secular Music}{5}{subsection.1.6}%
+\contentsline {subsubsection}{\numberline {1.6.1}Estampie}{6}{subsubsection.1.6.1}%
+\contentsline {subsubsection}{\numberline {1.6.2}Trouvère song}{6}{subsubsection.1.6.2}%
+\contentsline {subsubsection}{\numberline {1.6.3}Motet}{6}{subsubsection.1.6.3}%
+\contentsline {subsection}{\numberline {1.7}Jeu de Robin et Marion (“play with songs”)}{6}{subsection.1.7}%
+\contentsline {subsection}{\numberline {1.8}De ma dame vient/Dieus, comment porroie/Omnes}{7}{subsection.1.8}%
+\contentsline {subsection}{\numberline {1.9}Emergence of Polyphony}{7}{subsection.1.9}%
+\contentsline {section}{\numberline {2}At the Court of Philip the Good of Burgundy, ca. 1450}{7}{section.2}%
+\contentsline {subsection}{\numberline {2.1}The Duchy of Burgundy}{7}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Rose liz printemps verdure}{8}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Gilles Binchois (Gilles de Bins)}{8}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Deuil angoisseux (ceremonial ballade (aa'bC))}{9}{subsubsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.4}The English Guise}{9}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}John Dunstable}{9}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Quam pulchra es}{9}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}Johannes Tinctoris}{9}{subsubsection.2.4.3}%
+\contentsline {subsubsection}{\numberline {2.4.4}Martin le Franc}{9}{subsubsection.2.4.4}%
+\contentsline {subsubsection}{\numberline {2.4.5}Guillaume Du Fay}{10}{subsubsection.2.4.5}%
+\contentsline {subsubsection}{\numberline {2.4.6}Nuper rosarum flores}{10}{subsubsection.2.4.6}%
+\contentsline {subsubsection}{\numberline {2.4.7}Missa L'homme arme}{10}{subsubsection.2.4.7}%
+\contentsline {subsection}{\numberline {2.5}Messe de Nostre-Dame}{11}{subsection.2.5}%
+\contentsline {section}{\numberline {3}In the Printshops of Ottaviano Petrucci and Pierre Attaingnant ca. 1500-1550}{11}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Ottaviano Petrucci}{11}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Josquin des Prez (ca. 1450-1521)}{12}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Missa L'homme arme super voces musicales}{12}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Missa Pange Lingua}{12}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Ave Maria... virgo serena}{12}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}Rise of Native Italian Music}{13}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}lo non compro piu speranza}{13}{subsubsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.4}Pierre Attaingnant (1494-1552)}{13}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Tant que vivray}{14}{subsubsection.3.4.1}%
+\contentsline {section}{\numberline {4}The Year 1600: Medici's Florence and Elizabeth's London}{14}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Polyphonic Madrigal}{14}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Luca Marenzlo}{14}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Solo e pensoso}{15}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Concerti delle donne}{15}{subsubsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.3}Monody}{15}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}The Floretine Camerata}{15}{subsubsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.4}Giulio Caccini}{15}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}Le Nuove Muisiche}{15}{subsubsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.5}Staged Music in Medici Florence}{16}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}Peri, Euridice (1600)}{16}{subsubsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.6}Elizabethan England}{16}{subsection.4.6}%
+\contentsline {subsubsection}{\numberline {4.6.1}John Dowland (1562-1626)}{16}{subsubsection.4.6.1}%
+\contentsline {subsubsection}{\numberline {4.6.2}Flow my tears}{16}{subsubsection.4.6.2}%
+\contentsline {subsubsection}{\numberline {4.6.3}The virginal}{17}{subsubsection.4.6.3}%
+\contentsline {subsubsection}{\numberline {4.6.4}Pavana Lacrimae}{17}{subsubsection.4.6.4}%
+\contentsline {subsubsection}{\numberline {4.6.5}Consort music}{17}{subsubsection.4.6.5}%
+\contentsline {subsection}{\numberline {4.7}Elizabethan Theater Music}{17}{subsection.4.7}%
+\contentsline {section}{\numberline {5}Carnival and Lent in Venice, ca. 1650}{17}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Claudio Monteverdi (1567-1643)}{17}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}L'incoronatione di Poppea (1642)}{17}{subsubsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.2}Francesco Cavalli}{18}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Chamber music in Venice ca 1650}{18}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Barbara Strozzi (1619-1677)}{18}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}Lagrime mie (1659)}{19}{subsubsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.5}Public Music/Life}{19}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Giovanni Gabrieli (1553-1612)}{19}{subsection.5.6}%
+\contentsline {subsubsection}{\numberline {5.6.1}Canzon septimi toni a 8 no. 2 (1597)}{19}{subsubsection.5.6.1}%
+\contentsline {section}{\numberline {6}I give up. This class is stupid.}{19}{section.6}%
